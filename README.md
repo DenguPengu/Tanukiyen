@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tanukiyen
-- 👀 I’m interested in Web Dev | Front End internships
+- 👀 I’m interested in Game Dev, Ai, Frontend
 - 🌱 I’m currently learning CSS/HTML/Javascript/Python
 - 📫 How to reach me destin.nguyen98@gmail.com
 
